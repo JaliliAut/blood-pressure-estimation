@@ -27,7 +27,8 @@ from numpy import absolute
 import h5py
 
 warnings.filterwarnings("ignore")
-
+variable1 = "test for mamzi github"
+v1 = "test for mamzi github"
 # from google.colab import files
 # from google.colab import drive
 # drive.mount('/content/drive')
